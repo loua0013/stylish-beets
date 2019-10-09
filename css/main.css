@@ -1,6 +1,7 @@
 html {
   background-color: #c9b5ab;
-  font-family: Georgia, serif;
+  font-family: 'PT Serif', serif;
+  font-size: 0.8rem;
   line-height: 1.5;
 }
 
@@ -8,10 +9,11 @@ img {
   width: 50%;
 }
 
-h1, h2 {
-  color: #5d8432;
-  text-transform: uppercase;
-  font-family: "Patua One", sans-serif;
+h1 {
+  color: #3f1622;
+  font-family: 'PT Sans', sans-serif;
+  font-style: bold;
+  font-size: 1.125rem;
 }
 
 figcaption {
