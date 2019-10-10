@@ -36,7 +36,7 @@ h2 {
 }
 
 figcaption {
-  font-size: 1.125rem;
+  font-size: .8rem;
   font-family: "PT Serif", serif;
   font-style: italic;
   text-align: center;
@@ -44,7 +44,7 @@ figcaption {
 
 .info {
   font-weight: bold;
-  font-size: .8rem;
+  font-size: 1.125rem;
 }
 
 blockquote {
