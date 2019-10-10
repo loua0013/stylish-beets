@@ -10,7 +10,6 @@ html {
 img {
   width: 100%;
   text-align: center;
-
 }
 
 h1,
@@ -71,15 +70,16 @@ footer {
   font-size: 0.8rem;
 }
 
-.wiki {
-  color: #8f2440;
-}
 nav a:hover {
   color: #3f1622;
   text-decoration: underline;
 }
 
-source a:hover {
+a:link {
+  color: #8f2440;
+}
+
+a:hover {
   color: #3f1622;
   text-decoration: underline;
 }
