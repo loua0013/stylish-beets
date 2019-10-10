@@ -15,10 +15,10 @@ img {
 nav ol {
   color: #8f2440;
   font-size: 1.125rem;
+  text-decoration: none;
   font-family: "PT Sans", sans-serif;
   font-weight: bold;
   list-style-type: none;
-  text-decoration: none;
 }
 
 h1 {
@@ -36,7 +36,7 @@ h2 {
 }
 
 figcaption {
-  font-size: .8rem;
+  font-size: 1.125rem;
   font-family: "PT Serif", serif;
   font-style: italic;
   text-align: center;
@@ -48,7 +48,7 @@ figcaption {
 }
 
 blockquote {
-  font-size: 1.125rem;
+  font-size: 1.5rem;
   font-style: italic;
   text-align: center;
   font-weight: normal;
