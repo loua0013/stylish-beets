@@ -48,7 +48,7 @@ blockquote {
 }
 
 .chris {
-  font-size: 0.8rem;
+  font-size: .8rem;
   font-style: italic;
 }
 
@@ -65,11 +65,11 @@ dl dt {
 }
 
 ul {
-  font-size: 0.8rem;
+  font-size: .8rem;
 }
 
 footer {
-  font-size: 0.8rem;
+  font-size: .8rem;
 }
 
 nav a:hover {
