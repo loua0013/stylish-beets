@@ -7,7 +7,6 @@ html {
   font-weight: normal;
 }
 
-
 img {
   width: 100%;
   text-align: center;
@@ -45,7 +44,7 @@ figcaption {
 
 .info {
   font-weight: bold;
-  font-size: 1.125rem;
+  font-size: .8rem;
 }
 
 blockquote {
