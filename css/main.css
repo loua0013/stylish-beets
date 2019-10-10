@@ -7,9 +7,19 @@ html {
   font-weight: normal;
 }
 
+
 img {
   width: 100%;
   text-align: center;
+}
+
+nav ol {
+  color: #8f2440;
+  font-size: 1.125rem;
+  font-family: "PT Sans", sans-serif;
+  font-weight: bold;
+  list-style-type: none;
+  text-decoration: none;
 }
 
 h1 {
@@ -24,15 +34,6 @@ h2 {
   font-family: "PT Sans", sans-serif;
   font-weight: bold;
   font-size: 1.125rem;
-}
-
-.nurv {
-  color: #8f2440;
-  font-size: 1.125rem;
-  font-family: "PT Sans", sans-serif;
-  font-weight: bold;
-  list-style-type: none;
-  text-decoration: none;
 }
 
 figcaption {
@@ -59,8 +60,8 @@ blockquote {
   font-style: italic;
 }
 
-.greek {
-  list-style-type:lower-greek;
+.commonvarieties {
+  list-style-type: lower-greek;
 }
 
 h2 p {
