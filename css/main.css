@@ -1,51 +1,76 @@
 html {
   background-color: #c9b5ab;
   font-family: 'PT Serif', serif;
-  font-size: 0.8rem;
+  font-size: 1.125rem;
   line-height: 1.5;
+  color: #222;
 }
 
 img {
   width: 50%;
 }
 
-h1 {
+h1, h2 {
   color: #3f1622;
   font-family: 'PT Sans', sans-serif;
   font-style: bold;
+  font-size: 1.5rem;
+}
+
+nav {
+  color: #8f2440;
   font-size: 1.125rem;
+  font-family: 'PT Sans', sans-serif;
+  font-style: bold;
 }
 
 figcaption {
-  font-size: .8rem;
+  font-size: 1.125rem;
+  font-family: 'PT Serif', serif;
   font-style: italic;
   text-align: center;
 }
 
-nav {
-  font-size: 1.125rem;
-  font-weight: bold;
-  font-family: "Patua One", sans-serif;
+.info {
+  font-style: bold;
+  font-size: 1.5rem;
 }
 
-nav ol {
-  list-style-type: none;
+blockquote {
+  font-size: 1.5rem;
+  font-style: italic;
+  text-align: center;
 }
 
-nav a {
-  color: #793284;
-  text-decoration: none;
+.chris {
+  font-size: 0.8rem;
+  font-style: italic;
 }
 
-nav a:hover {
-  color: #b42885;
+h2 ol {
+  list-style-type: lower-greek;
+}
+
+h2 p {
+ font-style: italic;
+}
+
+dl dt {
+  font-style: bold;
+}
+
+ul {
+  font-size: 0.8rem;
+}
+
+footer {
+  font-size: 0.8rem;
+}
+
+.wiki {
+  color: #8f2440;
+}
+nav, .wiki :hover {
+  color: #3f1622;
   text-decoration: underline;
-}
-
-.intro {
-  font-size: 1rem;
-}
-
-nav, h1, h2 {
-  font-family: "Patua One", sans-serif;
 }
