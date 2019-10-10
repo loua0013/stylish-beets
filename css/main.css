@@ -4,6 +4,7 @@ html {
   font-size: 1.125rem;
   line-height: 1.5;
   color: #222;
+  font-weight: normal;
 }
 
 img {
@@ -13,7 +14,7 @@ img {
 h1, h2 {
   color: #3f1622;
   font-family: 'PT Sans', sans-serif;
-  font-style: bold;
+  font-weight: bold;
   font-size: 1.5rem;
 }
 
@@ -21,7 +22,7 @@ nav {
   color: #8f2440;
   font-size: 1.125rem;
   font-family: 'PT Sans', sans-serif;
-  font-style: bold;
+  font-weight: bold;
 }
 
 figcaption {
@@ -32,7 +33,7 @@ figcaption {
 }
 
 .info {
-  font-style: bold;
+  font-weight: bold;
   font-size: 1.5rem;
 }
 
@@ -70,7 +71,12 @@ footer {
 .wiki {
   color: #8f2440;
 }
-nav, .wiki :hover {
+nav:hover {
+  color: #3f1622;
+  text-decoration: underline;
+}
+
+.wiki:hover {
   color: #3f1622;
   text-decoration: underline;
 }
