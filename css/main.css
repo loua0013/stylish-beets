@@ -17,15 +17,16 @@ h2 {
   color: #3f1622;
   font-family: "PT Sans", sans-serif;
   font-weight: bold;
-  font-size: 1.125rem;
+  font-size: 1.5rem;
 }
 
-nav {
+.nurv {
   color: #8f2440;
   font-size: 1.125rem;
   font-family: "PT Sans", sans-serif;
   font-weight: bold;
   list-style-type: none;
+  text-decoration: none;
 }
 
 figcaption {
@@ -52,8 +53,8 @@ blockquote {
   font-style: italic;
 }
 
-h2 ol {
-  list-style-type: lower-alpha;
+.greek {
+  list-style-type:lower-greek;
 }
 
 h2 p {
