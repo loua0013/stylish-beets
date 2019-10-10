@@ -74,12 +74,12 @@ footer {
 .wiki {
   color: #8f2440;
 }
-nav:hover {
+nav a:hover {
   color: #3f1622;
   text-decoration: underline;
 }
 
-.wiki:hover {
+source a:hover {
   color: #3f1622;
   text-decoration: underline;
 }
